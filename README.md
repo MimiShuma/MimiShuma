@@ -64,8 +64,8 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MimiShuma/logo-designs">
-        <img src="https://via.placeholder.com/200x150.png?text=Logo+Designs" alt="Logo Designs"/><br>
+      <a href="#">
+        <img src="https://github.com/MimiShuma/MimiShuma/blob/e7e1cbe2cd6dd2acdae76f93430a35af328d75d1/images/MR-BANANA.png" alt="Logo Designs"/><br>
         <strong>Logo Designs</strong>
       </a>
     </td>
