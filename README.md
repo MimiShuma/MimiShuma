@@ -31,7 +31,7 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 ## 🚀 My Projects
 
 ### 🌐 Web Development
-<table border=0>
+<table>
   <tr>
     <td align="center">
       <a href="https://themeist-ecommerce.netlify.app/">
