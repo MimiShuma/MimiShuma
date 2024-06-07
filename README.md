@@ -58,8 +58,8 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MimiShuma/design-portfolio">
-        <img src="https://via.placeholder.com/200x150.png?text=Design+Portfolio" alt="Design Portfolio"/><br>
+      <a href="https://code002.netlify.app/">
+        <img src="https://github.com/MimiShuma/MimiShuma/blob/19d27b521d6564eb981c32341f10f2ecde9be7bc/images/portfolio-design.png" alt="Design Portfolio"/><br>
         <strong>Design Portfolio</strong>
       </a>
     </td>
