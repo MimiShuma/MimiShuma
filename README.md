@@ -31,10 +31,10 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 ## 🚀 My Projects
 
 ### 🌐 Web Development
-<table>
+<table border=0>
   <tr>
     <td align="center">
-      <a href="https://themeist-ecommerce.netlify.app/" style="text-decoration: none">
+      <a href="https://themeist-ecommerce.netlify.app/">
         <img src="https://github.com/MimiShuma/MimiShuma/blob/43cda294802e4f5514bd1ce910801776b346bf20/images/themeist2.png" alt="Project 1"/><br>
         <strong>E-Commerce Project with Limitless Theme</strong>
       </a>
