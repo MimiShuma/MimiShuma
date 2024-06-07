@@ -3,7 +3,7 @@
 ![Banner](https://github.com/MimiShuma/MimiShuma/blob/56d10b112529dcdafdcae8238def6e62198d7192/images/banner.png)
 
 ## 🎨 About Me
-I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair for creating stunning and functional web designs. With expertise in HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind, I bring ideas to life on the web. Additionally, my skills in Adobe Photoshop and Illustrator allow me to craft beautiful graphics and visual content.
+I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair for creating stunning and functional web designs. With expertise in HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind, I bring ideas to life on the web. Additionally, my skills in Adobe Photoshop and Adobe Illustrator allow me to craft beautiful graphics and visual content.
 
 ![Profile Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
@@ -34,21 +34,21 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MimiShuma/project1">
+      <a href="https://themeist-ecommerce.netlify.app/">
         <img src="https://via.placeholder.com/200x150.png?text=Project+1" alt="Project 1"/><br>
-        <strong>Project 1</strong>
+        <strong>E-Commerce Project with Limitless Theme</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MimiShuma/project2">
+      <a href="https://startpagelimitless.netlify.app/">
         <img src="https://via.placeholder.com/200x150.png?text=Project+2" alt="Project 2"/><br>
-        <strong>Project 2</strong>
+        <strong>Start Page with Javascript</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MimiShuma/project3">
+      <a href="https://shumamimi.netlify.app/">
         <img src="https://via.placeholder.com/200x150.png?text=Project+3" alt="Project 3"/><br>
-        <strong>Project 3</strong>
+        <strong>Portfolio Design with Bootstrap5.3</strong>
       </a>
     </td>
   </tr>
