@@ -35,7 +35,7 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
   <tr>
     <td align="center">
       <a href="https://themeist-ecommerce.netlify.app/">
-        <img src="https://via.placeholder.com/200x150.png?text=Project+1" alt="Project 1"/><br>
+        <img src="https://github.com/MimiShuma/MimiShuma/blob/43cda294802e4f5514bd1ce910801776b346bf20/images/themeist2.png" alt="Project 1"/><br>
         <strong>E-Commerce Project with Limitless Theme</strong>
       </a>
     </td>
