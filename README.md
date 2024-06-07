@@ -47,7 +47,7 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
     </td>
     <td align="center">
       <a href="https://shumamimi.netlify.app/">
-        <img src="https://via.placeholder.com/200x150.png?text=Project+3" alt="Project 3"/><br>
+        <img src="https://github.com/MimiShuma/MimiShuma/blob/e392ad16236d574cb8bba314a0ab770dfccdbc10/images/protfolio.png" alt="Project 3"/><br>
         <strong>Portfolio Design with Bootstrap5.3</strong>
       </a>
     </td>
