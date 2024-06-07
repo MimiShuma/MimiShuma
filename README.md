@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MimiShuma
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Frontend+Developer+%26+Graphic+Designer)
+![Banner](https://github.com/MimiShuma/MimiShuma/blob/56d10b112529dcdafdcae8238def6e62198d7192/images/banner.png)
 
 ## 🎨 About Me
 I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair for creating stunning and functional web designs. With expertise in HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind, I bring ideas to life on the web. Additionally, my skills in Adobe Photoshop and Illustrator allow me to craft beautiful graphics and visual content.
