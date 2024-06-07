@@ -85,16 +85,16 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 
 ## ✨ Contact Me
 <p align="center">
-  <a href="mailto:mimishuma@example.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mimishuma/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/MimiShuma"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="mailto:shuma.ttt@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/itz-mimi"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 ## 🖌️ Fun Facts & Interests
-- 🎸 I love playing the guitar and composing music.
-- 📚 I enjoy reading books on technology, design, and self-improvement.
+- 🎸 I love playing games.
+- 📚 I enjoy reading books and mangas.
+- 🎥 I love watching anime.
 - 🌍 I have a passion for traveling and exploring new cultures.
 - 🍕 Pizza is my favorite food, and I'm always on the lookout for the best slice in town.
 
