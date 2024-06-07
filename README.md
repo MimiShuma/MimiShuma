@@ -41,7 +41,7 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
     </td>
     <td align="center">
       <a href="https://startpagelimitless.netlify.app/">
-        <img src="https://via.placeholder.com/200x150.png?text=Project+2" alt="Project 2"/><br>
+        <img src="https://github.com/MimiShuma/MimiShuma/blob/41b00282d33c5222d8a4dbf6d7257a2e64e26f71/images/startpage.png" alt="Project 2"/><br>
         <strong>Start Page with Javascript</strong>
       </a>
     </td>
