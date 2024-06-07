@@ -5,7 +5,7 @@
 ## 🎨 About Me
 I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair for creating stunning and functional web designs. With expertise in HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind, I bring ideas to life on the web. Additionally, my skills in Adobe Photoshop and Adobe Illustrator allow me to craft beautiful graphics and visual content.
 
-![Profile Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Profile Gif](https://raw.githubusercontent.com/Mangeshrex/dotfiles/main/etc/cat.gif)
 
 ---
 
