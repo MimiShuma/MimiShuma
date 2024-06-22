@@ -77,8 +77,8 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MimiShuma&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimiShuma&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiShuma&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimiShuma&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
