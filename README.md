@@ -104,3 +104,7 @@ I'm a passionate **Frontend Developer** and **Graphic Designer** with a flair fo
 <p align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Thank You">
 </p>
+
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MimiShuma&label=Profile%20views&color=0e75b6&style=flat" alt="MimiShuma" /> </p>
