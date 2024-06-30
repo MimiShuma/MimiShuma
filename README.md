@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MimiShuma
+# 👋 Hi, I'm Mimi
 
 ![Banner](https://github.com/MimiShuma/MimiShuma/blob/56d10b112529dcdafdcae8238def6e62198d7192/images/banner.png)
 
